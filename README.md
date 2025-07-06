@@ -129,7 +129,7 @@ That's it! You're ready to use the provider!
 
 ## Provider Configuration Reference and Example Usage
 
-Refer to the [documentation](./docs) and the [examples]/(./examples/) directories for full usage and Terraform examples.
+Refer to the [documentation](./docs) and the [examples](./examples/) directories for full usage and Terraform examples.
 
 ---
 
